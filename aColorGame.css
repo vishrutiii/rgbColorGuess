@@ -1,0 +1,63 @@
+body {
+    background-color: #232323;
+}
+
+.square {
+    background: wheat;
+    padding-top: 30%;
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+    border-radius: 50px 50px;
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 50%;
+    max-height: 40%;
+}
+
+h1 {
+    color: white;
+    margin: 0 auto;
+}
+
+/* #message {
+    color:black;
+} */
+
+#stripe {
+    background-color: white;
+    /* text-align: center; */
+    /* height: 30px; */
+    color: black;
+    padding-top: 0mm;
+    margin-top: 0mm;
+}
+
+.selected {
+    background-color: #232323;
+    color: white;
+    border: 1px white solid;
+}
+
+.jumbotron {
+    padding-bottom: 0mm;
+    margin-bottom: 0mm;
+    text-align: center;
+    height: 150px;
+    color: white;
+    background-color: #232323;
+    border-radius: 0px;
+}
+
+/* .container {
+    margin: 0 auto;
+} */
+
+button {
+    border: none;
+    background-color: white;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
